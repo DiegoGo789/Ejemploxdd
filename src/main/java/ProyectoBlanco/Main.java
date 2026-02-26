@@ -7,6 +7,7 @@ public class Main {
     
     public static void main(String[] args) {
         //EjemploXDD
+        //OtroEjemplo
         // INICIAR LA VISTA (el menu visual)
         Visual menuPrincipal = new Visual();
         
