@@ -6,6 +6,8 @@ import ProyectoBlanco.Controlador.Controlador;
 public class Main {
     
     public static void main(String[] args) {
+        //zayra estuvo aqui muehehehe
+        //diego es bueno 
         //EjemploXDD
         //OtroEjemplo
         // INICIAR LA VISTA (el menu visual)
