@@ -1,6 +1,6 @@
 package ProyectoBlanco.Controlador;
 
-
+//bghhuhiuui
 import ProyectoBlanco.Modelo.Ficha;
 import ProyectoBlanco.Modelo.Repositorio;
 import ProyectoBlanco.Vista.VentanaLeccion;
