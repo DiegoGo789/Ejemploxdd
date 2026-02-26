@@ -7,6 +7,7 @@ public class Main {
     
     public static void main(String[] args) {
         //zayra estuvo aqui muehehehe
+        //diego es bueno 
         //EjemploXDD
         // INICIAR LA VISTA (el menu visual)
         Visual menuPrincipal = new Visual();
